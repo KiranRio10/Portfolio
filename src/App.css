@@ -1,0 +1,13 @@
+/* Kiran Kumar Portfolio styles */
+@keyframes cyberGlow {
+  0%, 100% {
+    filter: drop-shadow(0 0 15px rgba(6, 182, 212, 0.4));
+  }
+  50% {
+    filter: drop-shadow(0 0 25px rgba(168, 85, 247, 0.6));
+  }
+}
+
+.cyber-glow-anim {
+  animation: cyberGlow 4s ease-in-out infinite;
+}
