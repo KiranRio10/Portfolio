@@ -81,7 +81,7 @@ PROJECTS_DATA = [
         "timeline": "2024",
         "color": "#8b5cf6",
         "github": "https://github.com/KiranRio10/Weather-Outfit-Advisor",
-        "live": "https://weather-outfit-advisor.vercel.app",
+        "live": "https://weather-outfit-advisor-seven.vercel.app/",
         "sandbox_type": "weather",
         "tech_stack": [
             "JavaScript (ES6+)",
@@ -141,9 +141,10 @@ PROJECTS_DATA = [
         "role": "Frontend Architect",
         "timeline": "2023",
         "color": "#10b981",
-        "github": "https://github.com/KiranRio10/khaata-book",
-        "live": "https://khaata-book-kiran.vercel.app",
+        "github": "https://github.com/KiranRio10/khaatabook",
+        "live": "https://khaatabook-taupe.vercel.app/",
         "sandbox_type": "khaata",
+
         "tech_stack": [
             "React.js",
             "JavaScript (ES6+)",

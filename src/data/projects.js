@@ -92,7 +92,7 @@ const playAudioCue = (frequency = 880, duration = 0.15) => {
     color: "#8b5cf6",
     accentGlow: "rgba(139, 92, 246, 0.4)",
     github: "https://github.com/KiranRio10/Weather-Outfit-Advisor",
-    live: "https://weather-outfit-advisor.vercel.app",
+    live: "https://weather-outfit-advisor-seven.vercel.app/",
     hasLocalSource: true,
     sandboxType: "weather",
     techStack: [
@@ -168,9 +168,10 @@ export function resolveOutfitAdvice(tempC, weatherCondition, windSpeed) {
     timeline: "2023",
     color: "#10b981",
     accentGlow: "rgba(16, 185, 129, 0.4)",
-    github: "https://github.com/KiranRio10/khaata-book",
-    live: "https://khaata-book-kiran.vercel.app",
+    github: "https://github.com/KiranRio10/khaatabook",
+    live: "https://khaatabook-taupe.vercel.app/",
     hasLocalSource: false,
+
     sandboxType: "khaata",
     techStack: [
       "React.js",
