@@ -17,8 +17,9 @@ PROJECTS_DATA = [
         "timeline": "2024",
         "color": "#06b6d4",
         "github": "https://github.com/KiranRio10/fitzone-pro",
-        "live": "https://fitzone-pro.vercel.app",
+        "live": "https://fitzone-pro-alpha.vercel.app/",
         "sandbox_type": "fitzone",
+
         "tech_stack": [
             "React.js",
             "Python (FastAPI)",

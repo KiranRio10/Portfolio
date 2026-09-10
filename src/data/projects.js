@@ -11,8 +11,9 @@ export const projectsData = [
     color: "#06b6d4",
     accentGlow: "rgba(6, 182, 212, 0.4)",
     github: "https://github.com/KiranRio10/fitzone-pro",
-    live: "https://fitzone-pro.vercel.app",
+    live: "https://fitzone-pro-alpha.vercel.app/",
     hasLocalSource: true,
+
     sandboxType: "fitzone",
     techStack: [
       "React.js",
